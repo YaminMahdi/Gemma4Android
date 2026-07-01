@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Gemma 4</string>
+    <string name="chat_title">Gemma 4 Chat</string>
+    <string name="chat_initializing">Initializing on-device model…</string>
+    <string name="chat_input_hint">Ask Gemma anything…</string>
+    <string name="send">Send</string>
+    <string name="retry">Retry</string>
+    <string name="chat_message_user">You said: %1$s</string>
+    <string name="chat_message_assistant">Gemma said: %1$s</string>
+    <string name="chat_generating">Gemma is generating a response</string>
+    <string name="chat_copy_progress">Model copy progress: %1$d percent</string>
 </resources>

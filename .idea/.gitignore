@@ -1,3 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/firebender/
+/deploymentTargetSelector.xml
+/gradle.xml
+/misc.xml
+/inspectionProfiles/
+/claudeCodeEditorTabs.xml
+/claudeCodeTabState.xml
+/deviceManager.xml
