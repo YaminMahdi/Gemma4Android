@@ -141,6 +141,5 @@ class ChatViewModel(
     override fun onCleared() {
         session?.close()
         session = null
-        super.onCleared()
     }
 }
